@@ -37,7 +37,7 @@ Instead, it defines **how we think, organize, and operate.**
 * [Document Standards](https://github.com/encosoft-kr/origin/wiki/Document-Standards)
 * [Email Policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy)
 * [Repository & Naming Guidelines](https://github.com/encosoft-kr/origin/wiki/Repository-Structure)
-* [Slogan Usage Guide](https://github.com/encosoft-kr/origin/wiki/Slogan-Document)
+* [Slogan Document](https://github.com/encosoft-kr/origin/wiki/Slogan-Document)
 
 ---
 
