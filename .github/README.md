@@ -38,6 +38,7 @@ Instead, it defines **how we think, organize, and operate.**
 * [Email Policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy)
 * [Repository & Naming Guidelines](https://github.com/encosoft-kr/origin/wiki/Repository-Structure)
 * [Slogan Document](https://github.com/encosoft-kr/origin/wiki/Slogan-Document)
+* [Timeline](https://github.com/encosoft-kr/origin/wiki/Timeline)
 
 ---
 
