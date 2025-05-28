@@ -23,7 +23,7 @@ All documents are maintained in the **Wiki** for better structure and traceabili
 ## Why "origin"?
 
 In both naming and philosophy, `origin` represents the **core foundation** of our operation—where intentions are defined, and policies are justified. It is also aligned with our default contact identity:
-📫 `origin@encosoft.co.kr`
+📫`origin@encosoft.co.kr`
 
 This repository does not contain executable code or data files.
 Instead, it defines **how we think, organize, and operate.**
