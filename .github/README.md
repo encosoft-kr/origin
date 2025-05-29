@@ -1,3 +1,5 @@
+<img src="https://github.com/encosoft-kr/origin/blob/main/assets/logo-encosoft-vertical-1000x300-github.png">
+
 # EncoSoft Origin
 
 > Everything has a starting point. This is ours.
