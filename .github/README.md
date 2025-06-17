@@ -48,3 +48,7 @@ Instead, it defines **how we think, organize, and operate.**
 Note:
 > While GitHub displays tabs such as Pull requests, Security, and Insights by default, this repository does not actively use those features.  
 > Our focus is on documentation via the Wiki and direct project organization.
+
+---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=encosoft-kr-origin&style=flat-square)
