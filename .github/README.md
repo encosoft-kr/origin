@@ -24,8 +24,8 @@ All documents are maintained in the **Wiki** for better structure and traceabili
 
 ## Why "origin"?
 
-In both naming and philosophy, `origin` represents the **core foundation** of our operation—where intentions are defined, and policies are justified. It is also aligned with our default contact identity:
-📫`origin@encosoft.co.kr`
+In both naming and philosophy, `origin` represents the **core foundation** of our operation — where intentions are defined, and policies are justified. It is also aligned with our default contact identity:
+📫`origin@encosoft.co.kr`. See more details at [Email Policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy)
 
 This repository does not contain executable code or data files.
 Instead, it defines **how we think, organize, and operate.**
@@ -34,7 +34,7 @@ Instead, it defines **how we think, organize, and operate.**
 
 ## Key Wiki Sections
 
-* [Brand Identity Guide](./origin/wiki/Brand-Identity-Guide)
+* [Brand Identity Guide](https://github.com/encosoft-kr/origin/wiki/Brand-Identity-Guide)
 * [Design Identity Guide](https://github.com/encosoft-kr/origin/wiki/Design-Identity-Guide)
 * [Document Standards](https://github.com/encosoft-kr/origin/wiki/Document-Standards)
 * [Email Policy](https://github.com/encosoft-kr/origin/wiki/Email-Policy)
