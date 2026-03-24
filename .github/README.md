@@ -1,4 +1,4 @@
-<img src="https://github.com/encosoft-kr/origin/blob/main/assets/logo-encosoft-vertical-1000x300-github.png">
+<img src="https://github.com/encosoft-kr/origin/blob/main/assets/Logo_EncoSoft_GitHub_600.png">
 
 # EncoSoft Origin
 
